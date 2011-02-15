@@ -1,0 +1,6 @@
+content   languagehelp                 chrome/content/
+skin      languagehelp   classic/1.0   chrome/skin/
+locale    languagehelp   en-US         chrome/locale/en-US/
+
+
+overlay   chrome://browser/content/browser.xul   chrome://languagehelp/content/language-help.xul
