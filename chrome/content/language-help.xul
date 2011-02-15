@@ -2,7 +2,6 @@
 <?xml-stylesheet href="chrome://languagehelp/skin/overlay.css" type="text/css"?>
 <!DOCTYPE overlay SYSTEM "chrome://languagehelp/locale/overlay.dtd">
 <overlay id="languagehelp-overlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
-  <script src="overlay.js"/>
   <script src="language-help.js"/>
 
   <stringbundleset id="stringbundleset">

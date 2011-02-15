@@ -4,7 +4,7 @@
     <em:id>languagehelp@nlpenguin.com</em:id>
     <em:type>2</em:type>
     <em:name>Language Help</em:name>
-    <em:version>0.1</em:version>
+    <em:version>0.2</em:version>
     <em:creator>Joshua Hou</em:creator>
     <em:contributor></em:contributor>
     <em:description>Looks up selected word in different dictionaries</em:description>
